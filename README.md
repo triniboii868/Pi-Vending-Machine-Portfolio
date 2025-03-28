@@ -106,10 +106,26 @@ Old school vending machines are vintage or retro-style machines that dispenses s
 
 
 # Setting up the Raspberry Pi Vend Machine
-Throughout this part of the project, we have taken a couple of steps to complete this raspberry Pi vending machine setup and have it fully functional. First, we prepared the breadboard with the setup of the 
 
+Throughout this part of the project, we have taken a couple of steps to complete this raspberry Pi vending machine setup and have it fully functional. First, we prepared the breadboard with the initial setup connecting the board to the GPIO pins in the Raspberry Pi device to receive inputs by using its GPIO (General Purpose Input/Output) pins connected by F-M Wires as seen below. 
 
+![initial setup](https://github.com/user-attachments/assets/9f9924cf-387f-4195-a1b7-0a9946dd062b)
 
+## Javascript Code which accepts input from Breadboard and Outputs into Console.
+
+Secondly, A program called Real VNC Viewer was installed where we can connect to the host and have a GUI to operate the Raspberry Pi device. The neat thing about this device is that it has the same functions a computer has as well as applications which we can use to write code. In this instance, we used Thonny to write code in Javascript to allow the functionality of the device correctly, to receive outputs/inputs and have it displayed in a program. 
+
+![first part of code](https://github.com/user-attachments/assets/964aaff5-05d5-41a7-b4fa-be028824dee8)
+
+## Javascript code and Breadboard showing the outputs on Console for each scenario.
+
+### Case 1: Coin is inserted
+
+![coin pressed](https://github.com/user-attachments/assets/f7dbd9a3-af5f-4907-9ba7-4b6a63edeec9)
+
+### Case 2: Vend Action is pressed
+
+![vend pressed](https://github.com/user-attachments/assets/237cef76-1019-4756-9225-938340d03a4b)
 
 
 ## Works Cited
