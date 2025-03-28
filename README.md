@@ -131,16 +131,16 @@ Secondly, A program called Real VNC Viewer was installed where we can connect to
 
 ![html part](https://github.com/user-attachments/assets/6df01a99-e543-4160-8318-da33d87fbcc7)
 
-# Special mention to those who contributed In the completion of this Portfolio
+# Special mention to the Contributor for the completion of this Portfolio
 
-Tomas Nadale who soughted the completion of the Github page. 
+### Tomas Nadale who soughted the completion of the Github page. 
 
 
-Ronald Kiprono who contributed to the javascript code. 
+### Ronald Kiprono who contributed to the javascript code. 
 
 ![IMG_3405](https://github.com/user-attachments/assets/f7f9ba21-3287-4dcd-adfa-7dfa02fb8062)
 
-Noah Newton who aided in the physical setup of the vending machine. 
+### Noah Newton who aided in the physical setup of the vending machine. 
 
 ![IMG_3371](https://github.com/user-attachments/assets/a1eb2964-8069-4300-a01c-8741e648865f)
 
