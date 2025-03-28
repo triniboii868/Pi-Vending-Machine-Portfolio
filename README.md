@@ -96,7 +96,18 @@ Finally, the VEND button is click after the coin is inserted (COIN button presse
 item is being vended. The delayed reset is important for the action to be completed. After the action is completed, the circuit repeats itself by returning
 to the "no coin" state which causes both the COIN and VEND LEDs to come off after the delayed reset.
 
-## Setting up the Raspberry Pi Vend Machine
+## Old School Vending Machine
+
+Old school vending machines are vintage or retro-style machines that dispenses snacks, drinks, or other small items when a user inserts coins or bills. These machines typically have mechanical or simple electronic mechanisms, unlike modern digital vending machines with touchscreens and cashless payment options. They utilize electromechanical systems which complete these transactions, this is the what we have tried implementing with the use of the Raspberry Pi with the addition of Python code and Vend Breadboard setup from previous assignments to carry out the transaction. 
+
+### Image Of Vending Machine
+
+![vending machine](https://github.com/user-attachments/assets/34873970-7416-4039-9f37-59729eb4b005)
+
+
+# Setting up the Raspberry Pi Vend Machine
+Throughout this part of the project, we have taken a couple of steps to complete this raspberry Pi vending machine setup and have it fully functional. First, we prepared the breadboard with the setup of the 
+
 
 
 
