@@ -131,6 +131,11 @@ Secondly, A program called Real VNC Viewer was installed where we can connect to
 
 ![html part](https://github.com/user-attachments/assets/6df01a99-e543-4160-8318-da33d87fbcc7)
 
+## Webpage with Vending Info
+
+![Screenshot 2025-03-27 101800](https://github.com/user-attachments/assets/7b693389-811e-4881-9fbb-9ff0e3f123e1)
+
+
 # Special mention to the Contributor for the completion of this Portfolio
 
 ### Tomas Nadale who soughted the completion of the Github page. 
