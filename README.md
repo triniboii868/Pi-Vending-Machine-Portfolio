@@ -129,6 +129,8 @@ Secondly, A program called Real VNC Viewer was installed where we can connect to
 
 ## HTML Server setup to Display output from a remote location. 
 
+In this part of the process, we configured a webpage using the ip address of the raspberry pi device to receive the input of a coin/vend button being pressed and displaying it on an HTML webpage as shown below this code.
+
 ![html part](https://github.com/user-attachments/assets/6df01a99-e543-4160-8318-da33d87fbcc7)
 
 ## Webpage with Vending Info
