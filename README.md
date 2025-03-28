@@ -119,13 +119,30 @@ Secondly, A program called Real VNC Viewer was installed where we can connect to
 
 ## Javascript code and Breadboard showing the outputs on Console for each scenario.
 
-### Case 1: Coin is inserted
+### Case 1: Coin is inserted (Pressed)
 
-![coin pressed](https://github.com/user-attachments/assets/f7dbd9a3-af5f-4907-9ba7-4b6a63edeec9)
+![coin pressed UPDATED](https://github.com/user-attachments/assets/26584f15-6c74-438d-8018-d3b2a7e678f6)
 
-### Case 2: Vend Action is pressed
+### Case 2: Vend is Initiated (Pressed)
 
-![vend pressed](https://github.com/user-attachments/assets/237cef76-1019-4756-9225-938340d03a4b)
+![vend pressed UPDATED](https://github.com/user-attachments/assets/51622508-cd70-40f7-916e-748a95ff39a2)
+
+## HTML Server setup to Display output from a remote location. 
+
+![html part](https://github.com/user-attachments/assets/6df01a99-e543-4160-8318-da33d87fbcc7)
+
+# Special mention to those who contributed In the completion of this Portfolio
+
+Tomas Nadale who soughted the completion of the Github page. 
+
+
+Ronald Kiprono who contributed to the javascript code. 
+
+![IMG_3405](https://github.com/user-attachments/assets/f7f9ba21-3287-4dcd-adfa-7dfa02fb8062)
+
+Noah Newton who aided in the physical setup of the vending machine. 
+
+![IMG_3371](https://github.com/user-attachments/assets/a1eb2964-8069-4300-a01c-8741e648865f)
 
 
 ## Works Cited
