@@ -113,7 +113,7 @@ Throughout this part of the project, we have taken a couple of steps to complete
 
 ## Javascript Code which accepts input from Breadboard and Outputs into Console.
 
-Secondly, A program called Real VNC Viewer was installed where we can connect to the host and have a GUI to operate the Raspberry Pi device. The neat thing about this device is that it has the same functions a computer has as well as applications which we can use to write code. In this instance, we used Thonny to write code in Javascript to allow the functionality of the device correctly, to receive outputs/inputs and have it displayed in a program. 
+Secondly, A program called Real VNC Viewer was installed where we can connect to the host and have a GUI to operate the Raspberry Pi device. The neat thing about this device is that it has the same functions a computer has as well as applications which we can use to write code. In this instance, we used Geany to write code in Javascript to allow the functionality of the device correctly, to receive outputs/inputs and have it displayed in a program. 
 
 ![first part of code](https://github.com/user-attachments/assets/964aaff5-05d5-41a7-b4fa-be028824dee8)
 
