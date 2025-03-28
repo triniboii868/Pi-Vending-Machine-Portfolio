@@ -107,7 +107,7 @@ A vending machine is an automated device that dispenses items such as snacks, dr
 
 # Setting up the Raspberry Pi Vend Machine
 
-Throughout this part of the project, we have taken a couple of steps to complete this raspberry Pi vending machine setup and have it fully functional. First, we prepared the breadboard with the initial setup connecting the board to the GPIO pins in the Raspberry Pi device to receive inputs by using its GPIO (General Purpose Input/Output) pins connected by F-M Wires as seen below. 
+Throughout this part of the project, we have taken a couple of steps to complete this Raspberry Pi vending machine setup and have it fully functional. First, we prepared the breadboard with the initial setup connecting the board to the GPIO pins in the Raspberry Pi device to receive inputs by using its GPIO (General Purpose Input/Output) pins connected by F-M Wires as seen below. 
 
 ![initial setup](https://github.com/user-attachments/assets/9f9924cf-387f-4195-a1b7-0a9946dd062b)
 
@@ -138,7 +138,7 @@ In this part of the process, we configured a webpage using the ip address of the
 ![Screenshot 2025-03-27 101800](https://github.com/user-attachments/assets/7b693389-811e-4881-9fbb-9ff0e3f123e1)
 
 
-# Special mention to the Contributor for the completion of this Portfolio
+# Special mention to the Contributors for aiding in the completion of this portfolio
 
 ### Tomas Nadale who soughted the completion of the Github page. 
 
